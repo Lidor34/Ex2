@@ -29,4 +29,4 @@ We will implement a `Cell` class for individual cells and a `Spreadsheet` class 
    - Methods for setting/getting cells, evaluating formulas, and detecting cycles.
 
 ### Example:
-צילום מסך 2025-01-13 202901.png
+https://github.com/Lidor34/Ex2/blob/master/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202025-01-13%20202901.png
