@@ -29,8 +29,4 @@ We will implement a `Cell` class for individual cells and a `Spreadsheet` class 
    - Methods for setting/getting cells, evaluating formulas, and detecting cycles.
 
 ### Example:
-```java
-Spreadsheet sheet = new Spreadsheet(5, 5);
-sheet.set(0, 0, new SCell("=5"));
-sheet.set(1, 0, new SCell("=A0+3"));
-System.out.println(sheet.eval(1, 0)); // Should output 8
+
